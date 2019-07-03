@@ -2,10 +2,10 @@
 clear
 echo "
 <-- INDONESIAN ERROR SYSTEM -->
-####################
+====================
 #   Whatsapp Code  # By indonesian error system
 #     Exploiter    # wahyu.st021@gmail.com
-####################
+====================
 Copyright (c) 2019 MR.W4HYU";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
