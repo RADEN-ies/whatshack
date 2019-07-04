@@ -1,11 +1,7 @@
 #!/bin/bash
 clear
 echo "
-
-Copyright (c) 2019 MR.W4HYU";
-echo "";
-read -p "Nomer Kamu (+62xxxx)=> " nomer;
-read -p "Nomer Target (+62xxxx) => " target;_________________________________
+_________________________________
 |<-- INDONESIAN ERROR SYSTEM -->|
 |__________MR.W4HYU_____________|
     _______________
@@ -17,6 +13,10 @@ read -p "Nomer Target (+62xxxx) => " target;_________________________________
 #   Whatsapp Code  # 
 #     Exploiter    # 
 ====================
+Copyright (c) 2019 MR.W4HYU";
+echo "";
+read -p "Nomer Kamu (+62xxxx)=> " nomer;
+read -p "Nomer Target (+62xxxx) => " target;
 sleep 2
 echo "[+] Syncing Target...";
 sleep 1
