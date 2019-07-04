@@ -1,12 +1,19 @@
 #!/bin/bash
 clear
 echo "
-<-- INDONESIAN ERROR SYSTEM -->
+_________________________________
+|<-- INDONESIAN ERROR SYSTEM -->|
+|__________MR.W4HYU_____________|
+    _______________
+   /  _/ ____/ ___/ coder :MR.W4HYU
+   / // __/  \__ \  team  :indonesian error system
+ _/ // /___ ___/ /  contac:wahyu.st021@gmail.com
+/___/_____//____/  
 ====================
-# Whatsapp Exploit # By MR.W4HYU
-#   Log Listener   # wahyu.st021@gmail.com
+#   Whatsapp Code  # 
+#     Exploiter    # 
 ====================
-Copyright (c) 2018 MR.W4HYU";
+Copyright (c) 2019 MR.W4HYU";
 echo "";
 read -p "Server   : http://" server
 read -p "Log File : " file
