@@ -1,15 +1,22 @@
 #!/bin/bash
 clear
 echo "
-<-- INDONESIAN ERROR SYSTEM -->
-====================
-#   Whatsapp Code  # By indonesian error system
-#     Exploiter    # wahyu.st021@gmail.com
-====================
+
 Copyright (c) 2019 MR.W4HYU";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
-read -p "Nomer Target (+62xxxx) => " target;
+read -p "Nomer Target (+62xxxx) => " target;_________________________________
+|<-- INDONESIAN ERROR SYSTEM -->|
+|__________MR.W4HYU_____________|
+    _______________
+   /  _/ ____/ ___/ coder :MR.W4HYU
+   / // __/  \__ \  team  :indonesian error system
+ _/ // /___ ___/ /  contac:wahyu.st021@gmail.com
+/___/_____//____/  
+====================
+#   Whatsapp Code  # 
+#     Exploiter    # 
+====================
 sleep 2
 echo "[+] Syncing Target...";
 sleep 1
